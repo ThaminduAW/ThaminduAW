@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Thamindu Abeywardhana Wickramasinghe</h1>
+<h1 align="center"> 👋 I'm Thamindu Abeywardhana Wickramasinghe</h1>
 
 <p align="center">
   🚀 <b>Web Developer | MERN Stack Enthusiast | UI/UX Designer</b> <br>
